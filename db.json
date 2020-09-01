@@ -1,0 +1,49 @@
+[
+  {
+    "id": 1,
+    "artistName": "Bret",
+    "email": "Sincere@fakemail.org",
+    "bio" : "lorem  lorem lorem ",
+    "albums": {
+      "album1" : "albumone",
+      "album2" : "albumtwo"
+    },
+  },
+  {
+    {
+      "id": 2,
+      "artistName": "Jim",
+      "email": "jim@fakemail.org",
+      "bio" : "lorem  lorem lorem ",
+      "albums": {
+        "album1" : "albumone",
+        "album2" : "albumtwo"
+      },
+    }  
+  }
+  {
+    {
+      "id": 3,
+      "artistName": "Mary",
+      "email": "mary@fakemail.org",
+      "bio" : "lorem  lorem lorem ",
+      "albums": {
+        "album1" : "albumone",
+        "album2" : "albumtwo",
+        "album3" : "albumthree",
+      },
+    }  
+  }
+  {
+    {
+      "id": 4,
+      "artistName": "Möretz",
+      "email": "möretz@fakemail.org",
+      "bio" : "lorem  lorem lorem ",
+      "albums": {
+        "album1" : "albumone",
+        "album2" : "albumtwo",
+      },
+    }  
+  }
+]
